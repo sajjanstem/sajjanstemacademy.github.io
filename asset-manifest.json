@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sajjanstemacademy.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/sajjanstemacademy.github.io/static/js/main.bb94111b.js",
-    "static/js/453.d5255508.chunk.js": "/sajjanstemacademy.github.io/static/js/453.d5255508.chunk.js",
-    "index.html": "/sajjanstemacademy.github.io/index.html",
-    "main.f855e6bc.css.map": "/sajjanstemacademy.github.io/static/css/main.f855e6bc.css.map",
-    "main.bb94111b.js.map": "/sajjanstemacademy.github.io/static/js/main.bb94111b.js.map",
-    "453.d5255508.chunk.js.map": "/sajjanstemacademy.github.io/static/js/453.d5255508.chunk.js.map"
+    "main.css": "/sajjanstemacademy/sajjanstemacademy.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/sajjanstemacademy/sajjanstemacademy.github.io/static/js/main.463ed51c.js",
+    "static/js/453.d5255508.chunk.js": "/sajjanstemacademy/sajjanstemacademy.github.io/static/js/453.d5255508.chunk.js",
+    "index.html": "/sajjanstemacademy/sajjanstemacademy.github.io/index.html",
+    "main.f855e6bc.css.map": "/sajjanstemacademy/sajjanstemacademy.github.io/static/css/main.f855e6bc.css.map",
+    "main.463ed51c.js.map": "/sajjanstemacademy/sajjanstemacademy.github.io/static/js/main.463ed51c.js.map",
+    "453.d5255508.chunk.js.map": "/sajjanstemacademy/sajjanstemacademy.github.io/static/js/453.d5255508.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.bb94111b.js"
+    "static/js/main.463ed51c.js"
   ]
 }
