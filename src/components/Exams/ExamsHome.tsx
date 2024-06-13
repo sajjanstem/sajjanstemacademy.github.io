@@ -1,6 +1,6 @@
 import React from "react";
 
-const Exams = () => {
+const ExamsHome = () => {
     return (
         <div className="section">
             <h2>Exams</h2>
@@ -20,4 +20,4 @@ const Exams = () => {
     );
 };
 
-export default Exams;
+export default ExamsHome;

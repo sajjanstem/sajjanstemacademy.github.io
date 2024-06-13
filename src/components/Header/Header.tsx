@@ -39,7 +39,7 @@ const Header = () => {
     <>
       <nav className="navbar">
         <Link to="/" className="navbar-logo">
-          <img src={process.env.PUBLIC_URL + '/assets/icons/logo.png'} alt="g" height="200px" width="200px"/>
+          <img src={process.env.PUBLIC_URL + '/assets/icons/logo.png'} alt="g" height="100px" width="100px"/>
         </Link>
         <ul className="nav-items">
           {navItems.map((item) => {
@@ -63,7 +63,6 @@ const Header = () => {
             );
           })}
         </ul>
-        {/* <Button /> */}
       </nav>
     </>
   );
