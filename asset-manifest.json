@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/sajjanstemacademy.github.io/static/css/main.a7cf2d3a.css",
-    "main.js": "/sajjanstemacademy.github.io/static/js/main.71116e8c.js",
-    "static/js/453.b4ef6f2f.chunk.js": "/sajjanstemacademy.github.io/static/js/453.b4ef6f2f.chunk.js",
-    "static/media/slick.svg": "/sajjanstemacademy.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/sajjanstemacademy.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/sajjanstemacademy.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/sajjanstemacademy.github.io/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/sajjanstemacademy.github.io/index.html",
-    "main.a7cf2d3a.css.map": "/sajjanstemacademy.github.io/static/css/main.a7cf2d3a.css.map",
-    "main.71116e8c.js.map": "/sajjanstemacademy.github.io/static/js/main.71116e8c.js.map",
-    "453.b4ef6f2f.chunk.js.map": "/sajjanstemacademy.github.io/static/js/453.b4ef6f2f.chunk.js.map"
+    "main.css": "/sajjanstem/static/css/main.19be72dd.css",
+    "main.js": "/sajjanstem/static/js/main.d1ddbb67.js",
+    "static/js/453.b4ef6f2f.chunk.js": "/sajjanstem/static/js/453.b4ef6f2f.chunk.js",
+    "static/media/slick.svg": "/sajjanstem/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sajjanstem/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sajjanstem/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sajjanstem/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sajjanstem/index.html",
+    "main.19be72dd.css.map": "/sajjanstem/static/css/main.19be72dd.css.map",
+    "main.d1ddbb67.js.map": "/sajjanstem/static/js/main.d1ddbb67.js.map",
+    "453.b4ef6f2f.chunk.js.map": "/sajjanstem/static/js/453.b4ef6f2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7cf2d3a.css",
-    "static/js/main.71116e8c.js"
+    "static/css/main.19be72dd.css",
+    "static/js/main.d1ddbb67.js"
   ]
 }
