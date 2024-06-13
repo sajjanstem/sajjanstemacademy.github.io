@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/sajjanstemacademy/sajjanstemacademy.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/sajjanstemacademy/sajjanstemacademy.github.io/static/js/main.b86f158f.js",
-    "static/js/453.d5255508.chunk.js": "/sajjanstemacademy/sajjanstemacademy.github.io/static/js/453.d5255508.chunk.js",
-    "index.html": "/sajjanstemacademy/sajjanstemacademy.github.io/index.html",
-    "main.f855e6bc.css.map": "/sajjanstemacademy/sajjanstemacademy.github.io/static/css/main.f855e6bc.css.map",
-    "main.b86f158f.js.map": "/sajjanstemacademy/sajjanstemacademy.github.io/static/js/main.b86f158f.js.map",
-    "453.d5255508.chunk.js.map": "/sajjanstemacademy/sajjanstemacademy.github.io/static/js/453.d5255508.chunk.js.map"
+    "main.css": "/sajjanstemacademy.github.io/static/css/main.a7cf2d3a.css",
+    "main.js": "/sajjanstemacademy.github.io/static/js/main.71116e8c.js",
+    "static/js/453.b4ef6f2f.chunk.js": "/sajjanstemacademy.github.io/static/js/453.b4ef6f2f.chunk.js",
+    "static/media/slick.svg": "/sajjanstemacademy.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sajjanstemacademy.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sajjanstemacademy.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sajjanstemacademy.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sajjanstemacademy.github.io/index.html",
+    "main.a7cf2d3a.css.map": "/sajjanstemacademy.github.io/static/css/main.a7cf2d3a.css.map",
+    "main.71116e8c.js.map": "/sajjanstemacademy.github.io/static/js/main.71116e8c.js.map",
+    "453.b4ef6f2f.chunk.js.map": "/sajjanstemacademy.github.io/static/js/453.b4ef6f2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.b86f158f.js"
+    "static/css/main.a7cf2d3a.css",
+    "static/js/main.71116e8c.js"
   ]
 }
