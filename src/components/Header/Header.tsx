@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "./Header.css";
-import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
+import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import Dropdown from "./Dropdown";
 
 
@@ -18,7 +18,7 @@ const Header = () => {
     {
       id: 2,
       title: "Exams",
-      path: "./exams",
+      path: "",
       cName: "nav-item",
     },
     {
@@ -51,7 +51,9 @@ const Header = () => {
                   onMouseEnter={() => setDropdown(true)}
                   onMouseLeave={() => setDropdown(false)}
                 >
-                  <Link to={item.path}>{item.title}</Link>
+                  <Link to={item.path}>{item.title}
+                  <KeyboardArrowDownIcon/>
+                  </Link>
                   {dropdown && <Dropdown />}
                 </li>
               );
