@@ -7,19 +7,19 @@ function Dropdown() {
   const serviceDropdown = [
     {
         id: 1,
-        title: "STEM",
+        title: "STEM Genius Hunt",
         path: "./stem",
         cName: "submenu-item",
       },
       {
-        id: 2,
-        title: "Maths",
+        id: 2, 
+        title: "Maths Genius Hunt",
         path: "./maths",
         cName: "submenu-item",
       },
       {
         id: 3,
-        title: "Science",
+        title: "Science Genius Hunt",
         path: "./science",
         cName: "submenu-item",
       }
