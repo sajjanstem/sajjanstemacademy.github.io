@@ -1,6 +1,7 @@
 import React from "react";
 import { Box, Typography, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Accordion, AccordionSummary, AccordionDetails } from '@mui/material';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import "./Stem.css";
 
 const Stem = () => {
   return (
